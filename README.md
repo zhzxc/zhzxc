@@ -9,6 +9,7 @@
 # 💻:keyboard: Languages and Tools 
 
 
+
 ### 🔤 Languages:
 
   **👌skills**: 
@@ -20,7 +21,8 @@
     [![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redis&theme=light)
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=light)
-    
+  
+
    <div align="right">
     <img src="https://github.com/zhzxc/zhzxc/blob/main/img/R.gif" alt="Image" align="right" height="300px" width="250px">
   </div>
@@ -55,10 +57,12 @@
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode&theme=light)
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=light)
-
-   
-  
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!祝您今天愉快!&center=true&font=Roboto&size=29" /></div>
 
 
 ### 💻 Open Source Work Stats
-![zhzxcg's Github stats](https://github-readme-stats.vercel.app/api?username=zhzxc&hide=contribs,prs&count_private=true&show_icons=true)
+
+   ![zhzxcg's Github stats](https://github-readme-stats.vercel.app/api?username=zhzxc&hide=contribs,prs&count_private=true&show_icons=true!)
+   <div align="center"> <img src="https://profile-counter.glitch.me/zhzxc/count.svg" /> </div>
+
+
