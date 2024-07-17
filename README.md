@@ -22,7 +22,7 @@
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=light)
     
    <div align="right">
-    <img src="https://github.com/zhzxc/zhzxc/blob/main/R.gif" alt="Image" align="right" height="300px" width="250px">
+    <img src="https://github.com/zhzxc/zhzxc/blob/main/img/R.gif" alt="Image" align="right" height="300px" width="250px">
   </div>
    
   **👍other**: 
