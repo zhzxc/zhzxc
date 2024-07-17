@@ -58,6 +58,8 @@
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=light)
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!祝您今天愉快!&center=true&font=Roboto&size=29" /></div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### 💻 Open Source Work Stats
