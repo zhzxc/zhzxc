@@ -21,7 +21,9 @@
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redis&theme=light)
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=light)
     
-   
+   <div align="right">
+    <img src="https://github.com/zhzxc/zhzxc/blob/main/R.gif" alt="Image" align="right" height="300px" width="250px">
+  </div>
    
   **👍other**: 
      [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
@@ -53,9 +55,9 @@
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode&theme=light)
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=light)
+
+   
   
-  
- 
 
 
 ### 💻 Open Source Work Stats
