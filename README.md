@@ -37,7 +37,7 @@
 
  ### 🔍 SQL:
    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=oracle)](https://skillicons.dev)
+
   ### 🛠 Tools：
   [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) 
