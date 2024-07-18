@@ -18,7 +18,6 @@
     [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-    [![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redis&theme=light)
     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=light)
   
@@ -30,7 +29,6 @@
   **👍other**: 
      [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
      [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
-     [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev)
      [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
      ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=light)
      [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
@@ -39,8 +37,6 @@
 
  ### 🔍 SQL:
    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
    [![My Skills](https://skillicons.dev/icons?i=oracle)](https://skillicons.dev)
   ### 🛠 Tools：
   [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
