@@ -40,7 +40,6 @@
     
   ### 🛠 Tools：
   [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=webstorm)](https://skillicons.dev)
    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=datagrip&theme=light)
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
