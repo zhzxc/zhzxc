@@ -18,8 +18,7 @@
     [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redis&theme=light)
-    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq&theme=light)
+  
   
 
    <div align="right">
@@ -29,21 +28,23 @@
   **👍other**: 
      [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
      [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
      [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-     ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=light)
      [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
      [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
-     [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev) 
+    
 
  ### 🔍 SQL:
    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=redis&theme=light)
+    
   ### 🛠 Tools：
   [![My Skills](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=webstorm)](https://skillicons.dev)
+   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=datagrip&theme=light)
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=datagrip&theme=light)
+ 
   
  ### 🔓 Version Control:
    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git&theme=light)
