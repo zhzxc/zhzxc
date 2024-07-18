@@ -15,11 +15,10 @@
   **👌skills**: 
     [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
-    [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
     [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-  
-  
+    [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
    <div align="right">
     <img src="https://github.com/zhzxc/zhzxc/blob/main/img/R.gif" alt="Image" align="right" height="300px" width="250px">
@@ -28,7 +27,6 @@
   **👍other**: 
      [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
      [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
-      [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
      [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
      [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) 
      [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
